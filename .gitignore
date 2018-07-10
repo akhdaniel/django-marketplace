@@ -1,19 +1,7 @@
-*.py[co]
-
-# Installer logs
-
-# Editors
-.idea/
-.vscode/
-
-# Database files
-*.db
-*.sql
-*.sqlite3
-
-# Caches
-
-# Compiled assets
-
-# Virtual environment
-devenv/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
